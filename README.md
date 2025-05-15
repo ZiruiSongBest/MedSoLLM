@@ -1,3 +1,3 @@
 # MedSoLLM
 
-All code and model can be seen in [https://huggingface.co/Ziruibest/NLP-A3]{huggingface}
+All code and model can be seen in {huggingface}[https://huggingface.co/Ziruibest/NLP-A3]
